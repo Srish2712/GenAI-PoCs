@@ -1,5 +1,3 @@
-** GenAI Proof of Concepts (PoCs) **
-
 A collection of **GenAI-driven experiments** exploring non-conventional ways to solve problems.
 
 **Approach:**
