@@ -1,8 +1,8 @@
-🚀 GenAI Proof of Concepts (PoCs)
+** GenAI Proof of Concepts (PoCs) **
 
-A collection of \*\*GenAI-driven experiments\*\* exploring non-conventional ways to solve problems.
+A collection of **GenAI-driven experiments** exploring non-conventional ways to solve problems.
 
-\💡 Approach
+**Approach:**
 
 \- Rapid prototyping
 
@@ -10,7 +10,7 @@ A collection of \*\*GenAI-driven experiments\*\* exploring non-conventional ways
 
 \- Creative problem-solving using LLMs \& AI
 
-\ 🧠 What’s inside
+**What’s inside:**
 
 \- Graph-based RAG workflows  
 
@@ -22,9 +22,9 @@ A collection of \*\*GenAI-driven experiments\*\* exploring non-conventional ways
 
 \- MLflow \& Langfuse tracking  
 
-\ 🎯 Purpose
+**Purpose:**
 
-These are \*\*not production systems\*\* — but quick PoCs to test ideas, learn fast, and explore how GenAI can go beyond traditional approaches.
+These are **not production systems** — but quick PoCs to test ideas, learn fast, and explore how GenAI can go beyond traditional approaches.
 
 
 > Built with curiosity, not convention.
